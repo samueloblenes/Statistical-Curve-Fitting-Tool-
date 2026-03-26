@@ -1,8 +1,9 @@
 # Statistical Curve Fitting Tool 📈
 
 This is a streamlit web application for curve fitting that lets users see how different statistical distributions fit their data. This tool allows users to enter data manually or importe it from a CSV file and quickly visualize different probability distributions
+
+Features
 ---
-### Features
 - Users can input data manually using an interactive input table or import data from a .CSV file
 - Users can select from several distributions including:
   - normal
