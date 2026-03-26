@@ -2,10 +2,9 @@
 
 This is a streamlit web application for curve fitting that lets users see how different statistical distributions fit their data. This tool allows users to enter data manually or importe it from a CSV file and quickly visualize different probability distributions
 
-Features
----
-- Users can input data manually using an interactive input table or import data from a .CSV file
-- Users can select from several distributions including:
+##Features
+- **Users can input data manually using an interactive input table or import data from a .CSV file**
+- **Users can select from several distributions including**:
   - normal
   - exponential
   - gamma
@@ -16,13 +15,13 @@ Features
   - chi‑square
   - Laplace
   - Cauchy
-- “Auto Fit” tab performs standard distribution fitting, while the “Manual Fit” tab allows more control over:
+- **“Auto Fit” tab performs standard distribution fitting, while the “Manual Fit” tab allows more control over**:
   - resolution
   - x‑range
   - fixed location, scale, and shape parameters
-- Visulization
+- **Visulization**
   - the probability density function overlaid on a density‑normalized histogram of the data
-- Plot appearance customization using sliders and drop downs
+- **Plot appearance customization using sliders and drop downs**
   - colours
   - transparency
   - line styles
